@@ -1,5 +1,4 @@
 absl-py==0.11.0
-apex @ file:///home/compute-daa/GIT/wsd/apex
 cachetools==4.2.0
 certifi==2020.12.5
 chardet==4.0.0
