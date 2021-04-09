@@ -1,0 +1,3338 @@
+[
+    {
+        "id": "dev.scd_2.0",
+        "tag": "T",
+        "row": 0,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.1",
+        "tag": "F",
+        "row": 1,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.2",
+        "tag": "F",
+        "row": 1,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.3",
+        "tag": "T",
+        "row": 2,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.4",
+        "tag": "T",
+        "row": 3,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.5",
+        "tag": "T",
+        "row": 4,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.6",
+        "tag": "T",
+        "row": 5,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.7",
+        "tag": "T",
+        "row": 6,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.8",
+        "tag": "T",
+        "row": 6,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.9",
+        "tag": "F",
+        "row": 7,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.10",
+        "tag": "F",
+        "row": 8,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.11",
+        "tag": "F",
+        "row": 8,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.12",
+        "tag": "F",
+        "row": 9,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.13",
+        "tag": "T",
+        "row": 10,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.14",
+        "tag": "T",
+        "row": 11,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.15",
+        "tag": "T",
+        "row": 12,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.16",
+        "tag": "F",
+        "row": 13,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.17",
+        "tag": "T",
+        "row": 14,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.18",
+        "tag": "T",
+        "row": 15,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.19",
+        "tag": "F",
+        "row": 16,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.20",
+        "tag": "F",
+        "row": 16,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.21",
+        "tag": "T",
+        "row": 17,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.22",
+        "tag": "T",
+        "row": 18,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.23",
+        "tag": "T",
+        "row": 19,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.24",
+        "tag": "T",
+        "row": 20,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.25",
+        "tag": "T",
+        "row": 21,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.26",
+        "tag": "T",
+        "row": 22,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.27",
+        "tag": "T",
+        "row": 23,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.28",
+        "tag": "T",
+        "row": 24,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.29",
+        "tag": "T",
+        "row": 25,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.30",
+        "tag": "T",
+        "row": 26,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.31",
+        "tag": "T",
+        "row": 27,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.32",
+        "tag": "T",
+        "row": 28,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.33",
+        "tag": "T",
+        "row": 29,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.34",
+        "tag": "T",
+        "row": 30,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.35",
+        "tag": "T",
+        "row": 31,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.36",
+        "tag": "T",
+        "row": 32,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.37",
+        "tag": "T",
+        "row": 33,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.38",
+        "tag": "T",
+        "row": 34,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.39",
+        "tag": "T",
+        "row": 35,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.40",
+        "tag": "T",
+        "row": 36,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.41",
+        "tag": "T",
+        "row": 37,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.42",
+        "tag": "T",
+        "row": 38,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.43",
+        "tag": "T",
+        "row": 39,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.44",
+        "tag": "F",
+        "row": 41,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.45",
+        "tag": "F",
+        "row": 42,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.46",
+        "tag": "F",
+        "row": 43,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.47",
+        "tag": "F",
+        "row": 44,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.48",
+        "tag": "F",
+        "row": 45,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.49",
+        "tag": "F",
+        "row": 46,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.50",
+        "tag": "F",
+        "row": 47,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.51",
+        "tag": "F",
+        "row": 48,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.52",
+        "tag": "F",
+        "row": 49,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.53",
+        "tag": "F",
+        "row": 50,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.54",
+        "tag": "F",
+        "row": 51,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.55",
+        "tag": "F",
+        "row": 52,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.56",
+        "tag": "F",
+        "row": 53,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.57",
+        "tag": "F",
+        "row": 54,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.58",
+        "tag": "F",
+        "row": 55,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.59",
+        "tag": "T",
+        "row": 57,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.60",
+        "tag": "T",
+        "row": 58,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.61",
+        "tag": "T",
+        "row": 59,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.62",
+        "tag": "F",
+        "row": 60,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.63",
+        "tag": "F",
+        "row": 61,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.64",
+        "tag": "F",
+        "row": 62,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.65",
+        "tag": "T",
+        "row": 63,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.66",
+        "tag": "F",
+        "row": 66,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.67",
+        "tag": "T",
+        "row": 68,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.68",
+        "tag": "T",
+        "row": 69,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.69",
+        "tag": "F",
+        "row": 70,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.70",
+        "tag": "T",
+        "row": 71,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.71",
+        "tag": "T",
+        "row": 72,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.72",
+        "tag": "F",
+        "row": 73,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.73",
+        "tag": "T",
+        "row": 74,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.74",
+        "tag": "F",
+        "row": 75,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.75",
+        "tag": "T",
+        "row": 76,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.76",
+        "tag": "T",
+        "row": 77,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.77",
+        "tag": "T",
+        "row": 79,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.78",
+        "tag": "F",
+        "row": 81,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.79",
+        "tag": "F",
+        "row": 82,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.80",
+        "tag": "F",
+        "row": 83,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.81",
+        "tag": "F",
+        "row": 84,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.82",
+        "tag": "T",
+        "row": 85,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.83",
+        "tag": "F",
+        "row": 87,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.84",
+        "tag": "T",
+        "row": 90,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.85",
+        "tag": "T",
+        "row": 91,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.86",
+        "tag": "F",
+        "row": 94,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.87",
+        "tag": "F",
+        "row": 95,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.88",
+        "tag": "T",
+        "row": 96,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.89",
+        "tag": "F",
+        "row": 97,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.90",
+        "tag": "F",
+        "row": 98,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.91",
+        "tag": "T",
+        "row": 99,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.92",
+        "tag": "T",
+        "row": 100,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.93",
+        "tag": "T",
+        "row": 101,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.94",
+        "tag": "T",
+        "row": 102,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.95",
+        "tag": "T",
+        "row": 103,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.96",
+        "tag": "T",
+        "row": 104,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.97",
+        "tag": "T",
+        "row": 105,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.98",
+        "tag": "T",
+        "row": 106,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.99",
+        "tag": "T",
+        "row": 107,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.100",
+        "tag": "T",
+        "row": 108,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.101",
+        "tag": "T",
+        "row": 109,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.102",
+        "tag": "T",
+        "row": 110,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.103",
+        "tag": "T",
+        "row": 111,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.104",
+        "tag": "T",
+        "row": 112,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.105",
+        "tag": "T",
+        "row": 113,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.106",
+        "tag": "F",
+        "row": 114,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.107",
+        "tag": "T",
+        "row": 115,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.108",
+        "tag": "T",
+        "row": 116,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.109",
+        "tag": "T",
+        "row": 117,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.110",
+        "tag": "T",
+        "row": 118,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.111",
+        "tag": "T",
+        "row": 119,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.112",
+        "tag": "T",
+        "row": 120,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.113",
+        "tag": "T",
+        "row": 121,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.114",
+        "tag": "T",
+        "row": 122,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.115",
+        "tag": "T",
+        "row": 122,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.116",
+        "tag": "T",
+        "row": 123,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.117",
+        "tag": "T",
+        "row": 124,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.118",
+        "tag": "T",
+        "row": 125,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.119",
+        "tag": "T",
+        "row": 125,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.120",
+        "tag": "T",
+        "row": 126,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.121",
+        "tag": "T",
+        "row": 127,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.122",
+        "tag": "T",
+        "row": 128,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.123",
+        "tag": "T",
+        "row": 129,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.124",
+        "tag": "F",
+        "row": 130,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.125",
+        "tag": "T",
+        "row": 131,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.126",
+        "tag": "T",
+        "row": 132,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.127",
+        "tag": "F",
+        "row": 133,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.128",
+        "tag": "T",
+        "row": 134,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.129",
+        "tag": "T",
+        "row": 134,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.130",
+        "tag": "T",
+        "row": 134,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.131",
+        "tag": "T",
+        "row": 135,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.132",
+        "tag": "T",
+        "row": 136,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.133",
+        "tag": "T",
+        "row": 137,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.134",
+        "tag": "T",
+        "row": 138,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.135",
+        "tag": "F",
+        "row": 139,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.136",
+        "tag": "T",
+        "row": 140,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.137",
+        "tag": "F",
+        "row": 141,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.138",
+        "tag": "T",
+        "row": 142,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.139",
+        "tag": "T",
+        "row": 143,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.140",
+        "tag": "T",
+        "row": 145,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.141",
+        "tag": "F",
+        "row": 146,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.142",
+        "tag": "T",
+        "row": 148,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.143",
+        "tag": "T",
+        "row": 149,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.144",
+        "tag": "T",
+        "row": 150,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.145",
+        "tag": "T",
+        "row": 151,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.146",
+        "tag": "T",
+        "row": 152,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.147",
+        "tag": "F",
+        "row": 153,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.148",
+        "tag": "F",
+        "row": 155,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.149",
+        "tag": "F",
+        "row": 156,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.150",
+        "tag": "T",
+        "row": 157,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.151",
+        "tag": "F",
+        "row": 158,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.152",
+        "tag": "F",
+        "row": 160,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.153",
+        "tag": "F",
+        "row": 161,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.154",
+        "tag": "T",
+        "row": 162,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.155",
+        "tag": "F",
+        "row": 163,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.156",
+        "tag": "F",
+        "row": 164,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.157",
+        "tag": "F",
+        "row": 165,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.158",
+        "tag": "F",
+        "row": 166,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.159",
+        "tag": "T",
+        "row": 167,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.160",
+        "tag": "F",
+        "row": 168,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.161",
+        "tag": "T",
+        "row": 169,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.162",
+        "tag": "F",
+        "row": 171,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.163",
+        "tag": "F",
+        "row": 173,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.164",
+        "tag": "T",
+        "row": 174,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.165",
+        "tag": "T",
+        "row": 174,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.166",
+        "tag": "F",
+        "row": 175,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.167",
+        "tag": "F",
+        "row": 176,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.168",
+        "tag": "T",
+        "row": 177,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.169",
+        "tag": "T",
+        "row": 178,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.170",
+        "tag": "F",
+        "row": 179,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.171",
+        "tag": "F",
+        "row": 179,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.172",
+        "tag": "F",
+        "row": 180,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.173",
+        "tag": "F",
+        "row": 180,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.174",
+        "tag": "F",
+        "row": 181,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.175",
+        "tag": "T",
+        "row": 182,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.176",
+        "tag": "T",
+        "row": 183,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.177",
+        "tag": "F",
+        "row": 184,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.178",
+        "tag": "F",
+        "row": 185,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.179",
+        "tag": "F",
+        "row": 185,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.180",
+        "tag": "T",
+        "row": 186,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.181",
+        "tag": "T",
+        "row": 187,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.182",
+        "tag": "T",
+        "row": 188,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.183",
+        "tag": "T",
+        "row": 189,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.184",
+        "tag": "T",
+        "row": 189,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.185",
+        "tag": "T",
+        "row": 190,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.186",
+        "tag": "T",
+        "row": 190,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.187",
+        "tag": "T",
+        "row": 190,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.188",
+        "tag": "T",
+        "row": 191,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.189",
+        "tag": "F",
+        "row": 192,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.190",
+        "tag": "T",
+        "row": 193,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.191",
+        "tag": "T",
+        "row": 193,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.192",
+        "tag": "T",
+        "row": 194,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.193",
+        "tag": "T",
+        "row": 196,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.194",
+        "tag": "F",
+        "row": 197,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.195",
+        "tag": "T",
+        "row": 198,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.196",
+        "tag": "T",
+        "row": 199,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.197",
+        "tag": "T",
+        "row": 200,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.198",
+        "tag": "T",
+        "row": 201,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.199",
+        "tag": "T",
+        "row": 202,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.200",
+        "tag": "T",
+        "row": 203,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.201",
+        "tag": "T",
+        "row": 204,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.202",
+        "tag": "T",
+        "row": 205,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.203",
+        "tag": "T",
+        "row": 206,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.204",
+        "tag": "T",
+        "row": 207,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.205",
+        "tag": "T",
+        "row": 208,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.206",
+        "tag": "T",
+        "row": 209,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.207",
+        "tag": "T",
+        "row": 210,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.208",
+        "tag": "T",
+        "row": 211,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.209",
+        "tag": "T",
+        "row": 212,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.210",
+        "tag": "T",
+        "row": 213,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.211",
+        "tag": "T",
+        "row": 214,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.212",
+        "tag": "F",
+        "row": 215,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.213",
+        "tag": "F",
+        "row": 215,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.214",
+        "tag": "T",
+        "row": 216,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.215",
+        "tag": "T",
+        "row": 216,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.216",
+        "tag": "T",
+        "row": 217,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.217",
+        "tag": "T",
+        "row": 218,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.218",
+        "tag": "T",
+        "row": 219,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.219",
+        "tag": "T",
+        "row": 220,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.220",
+        "tag": "T",
+        "row": 222,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.221",
+        "tag": "T",
+        "row": 224,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.222",
+        "tag": "T",
+        "row": 225,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.223",
+        "tag": "F",
+        "row": 226,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.224",
+        "tag": "T",
+        "row": 228,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.225",
+        "tag": "F",
+        "row": 229,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.226",
+        "tag": "T",
+        "row": 230,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.227",
+        "tag": "T",
+        "row": 231,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.228",
+        "tag": "T",
+        "row": 232,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.229",
+        "tag": "T",
+        "row": 234,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.230",
+        "tag": "T",
+        "row": 235,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.231",
+        "tag": "T",
+        "row": 236,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.232",
+        "tag": "F",
+        "row": 238,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.233",
+        "tag": "T",
+        "row": 239,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.234",
+        "tag": "F",
+        "row": 240,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.235",
+        "tag": "T",
+        "row": 241,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.236",
+        "tag": "T",
+        "row": 242,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.237",
+        "tag": "T",
+        "row": 243,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.238",
+        "tag": "F",
+        "row": 244,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.239",
+        "tag": "F",
+        "row": 245,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.240",
+        "tag": "T",
+        "row": 246,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.241",
+        "tag": "F",
+        "row": 247,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.242",
+        "tag": "T",
+        "row": 248,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.243",
+        "tag": "F",
+        "row": 249,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.244",
+        "tag": "T",
+        "row": 250,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.245",
+        "tag": "F",
+        "row": 251,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.246",
+        "tag": "F",
+        "row": 252,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.247",
+        "tag": "F",
+        "row": 253,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.248",
+        "tag": "F",
+        "row": 254,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.249",
+        "tag": "F",
+        "row": 255,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.250",
+        "tag": "F",
+        "row": 256,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.251",
+        "tag": "F",
+        "row": 257,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.252",
+        "tag": "F",
+        "row": 258,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.253",
+        "tag": "F",
+        "row": 259,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.254",
+        "tag": "F",
+        "row": 260,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.255",
+        "tag": "F",
+        "row": 260,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.256",
+        "tag": "F",
+        "row": 261,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.257",
+        "tag": "F",
+        "row": 262,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.258",
+        "tag": "T",
+        "row": 263,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.259",
+        "tag": "F",
+        "row": 264,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.260",
+        "tag": "F",
+        "row": 265,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.261",
+        "tag": "F",
+        "row": 266,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.262",
+        "tag": "F",
+        "row": 269,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.263",
+        "tag": "F",
+        "row": 270,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.264",
+        "tag": "F",
+        "row": 271,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.265",
+        "tag": "F",
+        "row": 272,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.266",
+        "tag": "F",
+        "row": 273,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.267",
+        "tag": "F",
+        "row": 274,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.268",
+        "tag": "F",
+        "row": 275,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.269",
+        "tag": "F",
+        "row": 276,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.270",
+        "tag": "F",
+        "row": 277,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.271",
+        "tag": "F",
+        "row": 277,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.272",
+        "tag": "F",
+        "row": 278,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.273",
+        "tag": "F",
+        "row": 279,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.274",
+        "tag": "F",
+        "row": 280,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.275",
+        "tag": "F",
+        "row": 281,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.276",
+        "tag": "F",
+        "row": 282,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.277",
+        "tag": "T",
+        "row": 283,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.278",
+        "tag": "F",
+        "row": 284,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.279",
+        "tag": "F",
+        "row": 285,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.280",
+        "tag": "F",
+        "row": 286,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.281",
+        "tag": "F",
+        "row": 287,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.282",
+        "tag": "T",
+        "row": 289,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.283",
+        "tag": "F",
+        "row": 290,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.284",
+        "tag": "F",
+        "row": 290,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.285",
+        "tag": "F",
+        "row": 291,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.286",
+        "tag": "T",
+        "row": 292,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.287",
+        "tag": "T",
+        "row": 293,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.288",
+        "tag": "T",
+        "row": 294,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.289",
+        "tag": "T",
+        "row": 295,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.290",
+        "tag": "T",
+        "row": 296,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.291",
+        "tag": "T",
+        "row": 296,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.292",
+        "tag": "T",
+        "row": 297,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.293",
+        "tag": "T",
+        "row": 299,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.294",
+        "tag": "F",
+        "row": 300,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.295",
+        "tag": "T",
+        "row": 301,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.296",
+        "tag": "T",
+        "row": 302,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.297",
+        "tag": "F",
+        "row": 303,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.298",
+        "tag": "T",
+        "row": 305,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.299",
+        "tag": "T",
+        "row": 306,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.300",
+        "tag": "T",
+        "row": 307,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.301",
+        "tag": "T",
+        "row": 308,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.302",
+        "tag": "T",
+        "row": 309,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.303",
+        "tag": "T",
+        "row": 310,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.304",
+        "tag": "T",
+        "row": 311,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.305",
+        "tag": "T",
+        "row": 312,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.306",
+        "tag": "F",
+        "row": 313,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.307",
+        "tag": "F",
+        "row": 313,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.308",
+        "tag": "T",
+        "row": 314,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.309",
+        "tag": "T",
+        "row": 315,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.310",
+        "tag": "F",
+        "row": 316,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.311",
+        "tag": "T",
+        "row": 317,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.312",
+        "tag": "T",
+        "row": 318,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.313",
+        "tag": "T",
+        "row": 319,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.314",
+        "tag": "T",
+        "row": 320,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.315",
+        "tag": "T",
+        "row": 321,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.316",
+        "tag": "T",
+        "row": 322,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.317",
+        "tag": "T",
+        "row": 323,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.318",
+        "tag": "T",
+        "row": 324,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.319",
+        "tag": "T",
+        "row": 325,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.320",
+        "tag": "F",
+        "row": 326,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.321",
+        "tag": "T",
+        "row": 327,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.322",
+        "tag": "T",
+        "row": 327,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.323",
+        "tag": "T",
+        "row": 328,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.324",
+        "tag": "T",
+        "row": 329,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.325",
+        "tag": "T",
+        "row": 331,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.326",
+        "tag": "T",
+        "row": 331,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.327",
+        "tag": "T",
+        "row": 332,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.328",
+        "tag": "T",
+        "row": 333,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.329",
+        "tag": "F",
+        "row": 334,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.330",
+        "tag": "T",
+        "row": 335,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.331",
+        "tag": "T",
+        "row": 336,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.332",
+        "tag": "F",
+        "row": 337,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.333",
+        "tag": "F",
+        "row": 337,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.334",
+        "tag": "T",
+        "row": 338,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.335",
+        "tag": "F",
+        "row": 339,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.336",
+        "tag": "T",
+        "row": 340,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.337",
+        "tag": "T",
+        "row": 341,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.338",
+        "tag": "T",
+        "row": 342,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.339",
+        "tag": "F",
+        "row": 343,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.340",
+        "tag": "T",
+        "row": 344,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.341",
+        "tag": "T",
+        "row": 345,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.342",
+        "tag": "F",
+        "row": 346,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.343",
+        "tag": "T",
+        "row": 347,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.344",
+        "tag": "T",
+        "row": 348,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.345",
+        "tag": "T",
+        "row": 349,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.346",
+        "tag": "F",
+        "row": 350,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.347",
+        "tag": "T",
+        "row": 351,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.348",
+        "tag": "T",
+        "row": 352,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.349",
+        "tag": "T",
+        "row": 353,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.350",
+        "tag": "T",
+        "row": 354,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.351",
+        "tag": "T",
+        "row": 355,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.352",
+        "tag": "T",
+        "row": 356,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.353",
+        "tag": "T",
+        "row": 357,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.354",
+        "tag": "T",
+        "row": 358,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.355",
+        "tag": "T",
+        "row": 359,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.356",
+        "tag": "T",
+        "row": 360,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.357",
+        "tag": "T",
+        "row": 361,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.358",
+        "tag": "T",
+        "row": 362,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.359",
+        "tag": "T",
+        "row": 363,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.360",
+        "tag": "T",
+        "row": 364,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.361",
+        "tag": "T",
+        "row": 365,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.362",
+        "tag": "T",
+        "row": 366,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.363",
+        "tag": "F",
+        "row": 367,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.364",
+        "tag": "F",
+        "row": 368,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.365",
+        "tag": "F",
+        "row": 369,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.366",
+        "tag": "F",
+        "row": 370,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.367",
+        "tag": "T",
+        "row": 371,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.368",
+        "tag": "F",
+        "row": 372,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.369",
+        "tag": "F",
+        "row": 373,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.370",
+        "tag": "F",
+        "row": 374,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.371",
+        "tag": "F",
+        "row": 374,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.372",
+        "tag": "F",
+        "row": 374,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.373",
+        "tag": "F",
+        "row": 375,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.374",
+        "tag": "F",
+        "row": 377,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.375",
+        "tag": "F",
+        "row": 378,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.376",
+        "tag": "T",
+        "row": 379,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.377",
+        "tag": "F",
+        "row": 380,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.378",
+        "tag": "F",
+        "row": 381,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.379",
+        "tag": "F",
+        "row": 382,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.380",
+        "tag": "F",
+        "row": 383,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.381",
+        "tag": "F",
+        "row": 384,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.382",
+        "tag": "T",
+        "row": 385,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.383",
+        "tag": "F",
+        "row": 386,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.384",
+        "tag": "F",
+        "row": 407,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.385",
+        "tag": "F",
+        "row": 408,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.386",
+        "tag": "T",
+        "row": 409,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.387",
+        "tag": "T",
+        "row": 410,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.388",
+        "tag": "F",
+        "row": 411,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.389",
+        "tag": "T",
+        "row": 412,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.390",
+        "tag": "T",
+        "row": 413,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.391",
+        "tag": "F",
+        "row": 414,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.392",
+        "tag": "T",
+        "row": 415,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.393",
+        "tag": "T",
+        "row": 416,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.394",
+        "tag": "T",
+        "row": 417,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.395",
+        "tag": "T",
+        "row": 418,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.396",
+        "tag": "F",
+        "row": 419,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.397",
+        "tag": "T",
+        "row": 420,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.398",
+        "tag": "T",
+        "row": 421,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.399",
+        "tag": "T",
+        "row": 422,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.400",
+        "tag": "T",
+        "row": 422,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.401",
+        "tag": "F",
+        "row": 423,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.402",
+        "tag": "T",
+        "row": 424,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.403",
+        "tag": "T",
+        "row": 425,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.404",
+        "tag": "F",
+        "row": 426,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.405",
+        "tag": "T",
+        "row": 427,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.406",
+        "tag": "T",
+        "row": 428,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.407",
+        "tag": "T",
+        "row": 429,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.408",
+        "tag": "T",
+        "row": 430,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.409",
+        "tag": "T",
+        "row": 431,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.410",
+        "tag": "T",
+        "row": 432,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.411",
+        "tag": "T",
+        "row": 433,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.412",
+        "tag": "F",
+        "row": 434,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.413",
+        "tag": "T",
+        "row": 435,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.414",
+        "tag": "F",
+        "row": 436,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.415",
+        "tag": "T",
+        "row": 437,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.416",
+        "tag": "T",
+        "row": 438,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.417",
+        "tag": "F",
+        "row": 440,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.418",
+        "tag": "T",
+        "row": 441,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.419",
+        "tag": "F",
+        "row": 442,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.420",
+        "tag": "F",
+        "row": 443,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.421",
+        "tag": "T",
+        "row": 444,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.422",
+        "tag": "F",
+        "row": 445,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.423",
+        "tag": "T",
+        "row": 446,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.424",
+        "tag": "T",
+        "row": 447,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.425",
+        "tag": "F",
+        "row": 448,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.426",
+        "tag": "T",
+        "row": 449,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.427",
+        "tag": "F",
+        "row": 450,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.428",
+        "tag": "T",
+        "row": 451,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.429",
+        "tag": "F",
+        "row": 452,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.430",
+        "tag": "T",
+        "row": 453,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.431",
+        "tag": "F",
+        "row": 454,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.432",
+        "tag": "T",
+        "row": 455,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.433",
+        "tag": "T",
+        "row": 456,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.434",
+        "tag": "F",
+        "row": 458,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.435",
+        "tag": "F",
+        "row": 458,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.436",
+        "tag": "F",
+        "row": 459,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.437",
+        "tag": "F",
+        "row": 460,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.438",
+        "tag": "T",
+        "row": 461,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.439",
+        "tag": "F",
+        "row": 463,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.440",
+        "tag": "T",
+        "row": 465,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.441",
+        "tag": "F",
+        "row": 467,
+        "score": 1.8
+    },
+    {
+        "id": "dev.scd_2.442",
+        "tag": "F",
+        "row": 469,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.443",
+        "tag": "F",
+        "row": 470,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.444",
+        "tag": "T",
+        "row": 471,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.445",
+        "tag": "F",
+        "row": 473,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.446",
+        "tag": "T",
+        "row": 474,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.447",
+        "tag": "T",
+        "row": 475,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.448",
+        "tag": "T",
+        "row": 476,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.449",
+        "tag": "T",
+        "row": 477,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.450",
+        "tag": "T",
+        "row": 478,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.451",
+        "tag": "T",
+        "row": 479,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.452",
+        "tag": "T",
+        "row": 480,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.453",
+        "tag": "T",
+        "row": 480,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.454",
+        "tag": "T",
+        "row": 481,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.455",
+        "tag": "T",
+        "row": 482,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.456",
+        "tag": "T",
+        "row": 483,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.457",
+        "tag": "T",
+        "row": 484,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.458",
+        "tag": "T",
+        "row": 485,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.459",
+        "tag": "T",
+        "row": 485,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.460",
+        "tag": "T",
+        "row": 485,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.461",
+        "tag": "T",
+        "row": 486,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.462",
+        "tag": "F",
+        "row": 487,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.463",
+        "tag": "T",
+        "row": 488,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.464",
+        "tag": "T",
+        "row": 489,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.465",
+        "tag": "T",
+        "row": 490,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.466",
+        "tag": "F",
+        "row": 491,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.467",
+        "tag": "T",
+        "row": 492,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.468",
+        "tag": "T",
+        "row": 493,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.469",
+        "tag": "F",
+        "row": 495,
+        "score": 1.2
+    },
+    {
+        "id": "dev.scd_2.470",
+        "tag": "F",
+        "row": 497,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.471",
+        "tag": "F",
+        "row": 499,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.472",
+        "tag": "F",
+        "row": 512,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.473",
+        "tag": "T",
+        "row": 520,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.474",
+        "tag": "T",
+        "row": 521,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.475",
+        "tag": "T",
+        "row": 522,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.476",
+        "tag": "T",
+        "row": 523,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.477",
+        "tag": "T",
+        "row": 524,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.478",
+        "tag": "T",
+        "row": 525,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.479",
+        "tag": "T",
+        "row": 526,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.480",
+        "tag": "T",
+        "row": 527,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.481",
+        "tag": "T",
+        "row": 529,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.482",
+        "tag": "T",
+        "row": 530,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.483",
+        "tag": "T",
+        "row": 530,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.484",
+        "tag": "T",
+        "row": 531,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.485",
+        "tag": "T",
+        "row": 532,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.486",
+        "tag": "T",
+        "row": 533,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.487",
+        "tag": "T",
+        "row": 534,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.488",
+        "tag": "T",
+        "row": 535,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.489",
+        "tag": "T",
+        "row": 536,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.490",
+        "tag": "T",
+        "row": 536,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.491",
+        "tag": "F",
+        "row": 537,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.492",
+        "tag": "T",
+        "row": 538,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.493",
+        "tag": "T",
+        "row": 539,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.494",
+        "tag": "F",
+        "row": 540,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.495",
+        "tag": "F",
+        "row": 541,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.496",
+        "tag": "F",
+        "row": 542,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.497",
+        "tag": "T",
+        "row": 543,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.498",
+        "tag": "T",
+        "row": 544,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.499",
+        "tag": "F",
+        "row": 545,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.500",
+        "tag": "F",
+        "row": 546,
+        "score": 1.4
+    },
+    {
+        "id": "dev.scd_2.501",
+        "tag": "F",
+        "row": 547,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.502",
+        "tag": "F",
+        "row": 548,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.503",
+        "tag": "F",
+        "row": 548,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.504",
+        "tag": "F",
+        "row": 549,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.505",
+        "tag": "F",
+        "row": 550,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.506",
+        "tag": "F",
+        "row": 551,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.507",
+        "tag": "T",
+        "row": 552,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.508",
+        "tag": "F",
+        "row": 553,
+        "score": 2.4
+    },
+    {
+        "id": "dev.scd_2.509",
+        "tag": "T",
+        "row": 554,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.510",
+        "tag": "T",
+        "row": 555,
+        "score": 3.8
+    },
+    {
+        "id": "dev.scd_2.511",
+        "tag": "T",
+        "row": 556,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.512",
+        "tag": "F",
+        "row": 557,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.513",
+        "tag": "T",
+        "row": 558,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.514",
+        "tag": "F",
+        "row": 559,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.515",
+        "tag": "F",
+        "row": 560,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.516",
+        "tag": "T",
+        "row": 561,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.517",
+        "tag": "T",
+        "row": 561,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.518",
+        "tag": "T",
+        "row": 562,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.519",
+        "tag": "T",
+        "row": 563,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.520",
+        "tag": "F",
+        "row": 564,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.521",
+        "tag": "T",
+        "row": 565,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.522",
+        "tag": "T",
+        "row": 566,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.523",
+        "tag": "T",
+        "row": 569,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.524",
+        "tag": "T",
+        "row": 570,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.525",
+        "tag": "T",
+        "row": 571,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.526",
+        "tag": "T",
+        "row": 572,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.527",
+        "tag": "F",
+        "row": 573,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.528",
+        "tag": "F",
+        "row": 574,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.529",
+        "tag": "F",
+        "row": 575,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.530",
+        "tag": "T",
+        "row": 576,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.531",
+        "tag": "F",
+        "row": 577,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.532",
+        "tag": "F",
+        "row": 578,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.533",
+        "tag": "F",
+        "row": 579,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.534",
+        "tag": "F",
+        "row": 581,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.535",
+        "tag": "F",
+        "row": 582,
+        "score": 1.0
+    },
+    {
+        "id": "dev.scd_2.536",
+        "tag": "T",
+        "row": 583,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.537",
+        "tag": "F",
+        "row": 584,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.538",
+        "tag": "T",
+        "row": 585,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.539",
+        "tag": "T",
+        "row": 586,
+        "score": 4.0
+    },
+    {
+        "id": "dev.scd_2.540",
+        "tag": "T",
+        "row": 587,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.541",
+        "tag": "F",
+        "row": 588,
+        "score": 2.0
+    },
+    {
+        "id": "dev.scd_2.542",
+        "tag": "F",
+        "row": 589,
+        "score": 2.8
+    },
+    {
+        "id": "dev.scd_2.543",
+        "tag": "T",
+        "row": 590,
+        "score": 3.6
+    },
+    {
+        "id": "dev.scd_2.544",
+        "tag": "F",
+        "row": 591,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.545",
+        "tag": "F",
+        "row": 591,
+        "score": 1.6
+    },
+    {
+        "id": "dev.scd_2.546",
+        "tag": "T",
+        "row": 592,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.547",
+        "tag": "F",
+        "row": 593,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.548",
+        "tag": "T",
+        "row": 594,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.549",
+        "tag": "T",
+        "row": 595,
+        "score": 3.0
+    },
+    {
+        "id": "dev.scd_2.550",
+        "tag": "F",
+        "row": 596,
+        "score": 2.6
+    },
+    {
+        "id": "dev.scd_2.551",
+        "tag": "T",
+        "row": 597,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.552",
+        "tag": "F",
+        "row": 598,
+        "score": 2.2
+    },
+    {
+        "id": "dev.scd_2.553",
+        "tag": "T",
+        "row": 599,
+        "score": 3.4
+    },
+    {
+        "id": "dev.scd_2.554",
+        "tag": "T",
+        "row": 600,
+        "score": 3.2
+    },
+    {
+        "id": "dev.scd_2.555",
+        "tag": "F",
+        "row": 601,
+        "score": 2.4
+    }
+]

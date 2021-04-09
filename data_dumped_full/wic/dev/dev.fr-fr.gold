@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "dev.fr-fr.10",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.11",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.12",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.13",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.50",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.51",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.58",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.59",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.60",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.61",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.66",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.67",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.72",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.73",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.80",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.81",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.82",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.83",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.92",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.93",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.96",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.97",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.98",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.99",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.102",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.103",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.108",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.109",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.128",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.129",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.136",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.137",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.150",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.151",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.152",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.153",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.154",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.155",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.156",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.157",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.160",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.161",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.168",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.169",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.170",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.171",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.174",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.175",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.180",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.181",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.182",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.183",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.186",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.187",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.194",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.195",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.196",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.197",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.202",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.203",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.208",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.209",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.226",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.227",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.228",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.229",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.248",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.249",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.256",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.257",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.260",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.261",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.262",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.263",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.268",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.269",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.278",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.279",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.286",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.287",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.290",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.291",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.296",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.297",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.300",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.301",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.302",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.303",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.306",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.307",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.308",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.309",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.310",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.311",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.314",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.315",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.316",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.317",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.318",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.319",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.320",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.321",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.322",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.323",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.328",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.329",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.330",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.331",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.332",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.333",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.336",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.337",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.340",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.341",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.346",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.347",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.350",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.351",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.352",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.353",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.366",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.367",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.390",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.391",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.406",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.407",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.420",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.421",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.424",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.425",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.428",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.429",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.438",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.439",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.448",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.449",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.450",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.451",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.454",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.455",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.458",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.459",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.468",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.469",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.470",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.471",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.478",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.479",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.482",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.483",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.486",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.487",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.492",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.493",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.498",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.499",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.500",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.501",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.502",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.503",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.504",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.505",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.512",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.513",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.516",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.517",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.520",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.521",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.528",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.529",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.540",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.541",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.542",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.543",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.548",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.549",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.554",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.555",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.560",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.561",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.564",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.565",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.586",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.587",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.588",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.589",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.598",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.599",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.606",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.607",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.610",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.611",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.614",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.615",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.616",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.617",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.622",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.623",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.624",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.625",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.632",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.633",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.646",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.647",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.658",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.659",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.680",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.681",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.686",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.687",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.688",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.689",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.690",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.691",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.692",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.693",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.696",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.697",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.702",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.703",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.706",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.707",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.716",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.717",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.718",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.719",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.730",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.731",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.750",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.751",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.754",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.755",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.758",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.759",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.760",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.761",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.774",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.775",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.778",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.779",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.780",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.781",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.792",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.793",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.796",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.797",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.804",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.805",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.806",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.807",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.816",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.817",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.822",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.823",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.836",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.837",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.838",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.839",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.868",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.869",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.872",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.873",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.886",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.887",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.888",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.889",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.902",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.903",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.908",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.909",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.926",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.927",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.938",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.939",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.942",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.943",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.944",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.945",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.952",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.953",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.960",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.961",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.964",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.965",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.966",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.967",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.970",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.971",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.976",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.977",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.978",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.979",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.982",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.983",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.994",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.995",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.996",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.997",
+        "tag": "T"
+    },
+    {
+        "id": "dev.fr-fr.998",
+        "tag": "F"
+    },
+    {
+        "id": "dev.fr-fr.999",
+        "tag": "T"
+    }
+]
