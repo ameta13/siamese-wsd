@@ -2,7 +2,6 @@ from transformers import BertConfig
 from transformers import XLMRobertaConfig, RobertaConfig
 from torch.utils.data import DataLoader, TensorDataset
 from .xlmr import XLMRModel
-from .siamese_xlmr import SiameseXLMRModel
 import torch
 import os
 import json
