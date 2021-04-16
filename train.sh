@@ -16,7 +16,7 @@ siamese=false
 targ_emb=dist_l1ndotn # dist_l1 or dist_l1ndotn
 hs=0
 
-OUTPUT_DIR=f'xlmr-{model_name}..data_train-{DATA_TRAIN_DIR}..train_loss-{train_loss}..pool-{pool}..targ_emb-{targ_emb}..hs-{hs}..bn-{batch_norm}..ckpt-{train_ckpt}'
+OUTPUT_DIR=xlmr-${model_name}..data_train-${DATA_TRAIN_DIR}..train_loss-${train_loss}..pool-${pool}..targ_emb-${targ_emb}..hs-${hs}..bn-${batch_norm}..ckpt-${train_ckpt}
 
 DATA_TRAIN_DIR=data_dumped_full/${DATA_TRAIN_DIR}
 DATA_FT_DIR=data_dumped_full/${DATA_FT_DIR}
