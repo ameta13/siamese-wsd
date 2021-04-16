@@ -3,7 +3,7 @@ train_loss=crossentropy_loss
 DATA_FT_DIR=rusemshift-data
 ft_loss=mse_loss
 pool=mean
-batch_norm=0
+batch_norm=1
 train_ckpt=accuracy.nen-nen.score+accuracy.en-en.score
 
 model_name=base
