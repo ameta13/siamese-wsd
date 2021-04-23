@@ -9,6 +9,8 @@ ft_loss=mse_loss
 pool=mean
 train_ckpt=accuracy.nen-nen.score+accuracy.en-en.score
 
+eval_per_epoch=2
+
 model_name=base
 grad_acc_steps=8
 train_epochs=30
@@ -32,7 +34,7 @@ echo OUTPUT_DIR = $OUTPUT_DIR
 python run_model.py --do_train --do_validation --data_dir $DATA_TRAIN_DIR --output_dir $OUTPUT_DIR/train/ --gradient_accumulation_steps $grad_acc_steps \
 	--pool_type $pool --target_embeddings $targ_emb --head_batchnorm $batch_norm --loss $train_loss --linear_head $linhead --head_hidden_size $hs \
 	--num_train_epochs $train_epochs --siamese $siamese --symmetric $symmetric --save_by_score $train_ckpt \
-	--model_name xlm-roberta-$model_name
+	--model_name xlm-roberta-$model_name --eval_per_epoch $eval_per_epoch
 
 #if DATA_FT_DIR != :
 #	python run_model.py $train_scd --do_train --do_validation --data_dir $DATA_FT_DIR --output_dir $OUTPUT_DIR/finetune/ --gradient_accumulation_steps $grad_acc_steps \
