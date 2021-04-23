@@ -1,9 +1,12 @@
-DATA_TRAIN_DIR=wic_train-en-en
+DATA_TRAIN_DIR=$1 # wic_train-en-en
+targ_emb=$2 # dist_l1 or dist_l1ndotn
+hs=$3 # 0
+batch_norm=$4 # 1
+
 train_loss=crossentropy_loss
 DATA_FT_DIR=rusemshift-data
 ft_loss=mse_loss
 pool=mean
-batch_norm=1
 train_ckpt=accuracy.nen-nen.score+accuracy.en-en.score
 
 model_name=base
@@ -13,8 +16,7 @@ ft_epochs=50
 ft_save_by_score=spearman.dev.scd_2.score #spearman.dev.scd_1.score+spearman.dev.scd_2.score+spearman.dev.scd_1.wordwise.score+spearman.dev.scd_2.wordwise.score
 
 siamese=false
-targ_emb=dist_l1ndotn # dist_l1 or dist_l1ndotn
-hs=0
+
 
 OUTPUT_DIR=xlmr-${model_name}..data_train-${DATA_TRAIN_DIR}..train_loss-${train_loss}..pool-${pool}..targ_emb-${targ_emb}..hs-${hs}..bn-${batch_norm}..ckpt-${train_ckpt}
 
