@@ -2,14 +2,13 @@ DATA_TRAIN_DIR=$1 # wic_train-en-en
 targ_emb=$2 # dist_l1 or dist_l1ndotn
 hs=$3 # 0
 batch_norm=$4 # 1
+eval_per_epoch=$5 # 2
 
 train_loss=crossentropy_loss
 DATA_FT_DIR=rusemshift-data
 ft_loss=mse_loss
 pool=mean
 train_ckpt=accuracy.nen-nen.score+accuracy.en-en.score
-
-eval_per_epoch=2
 
 model_name=base
 grad_acc_steps=8
