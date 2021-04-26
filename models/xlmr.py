@@ -208,7 +208,7 @@ class XLMRModel(BertPreTrainedModel):
                 merged_feature = emb1 * emb2 # hidden
             elif merge_type == 'diff':
                 merged_feature = emb1 - emb2
-            elif merge_type == 'absdiff':
+            elif merge_type == 'abs_diff':
                 merged_feature = torch.abs(emb1 - emb2)
             elif merge_type == 'concat':
                 merged_feature = torch.cat((emb1, emb2)) # 2 * hidden
@@ -230,6 +230,11 @@ class XLMRModel(BertPreTrainedModel):
                 emb1n = emb1 / emb1.norm(dim=-1, keepdim=True)
                 emb2n = emb2 / emb2.norm(dim=-1, keepdim=True)
                 merged_feature = torch.cat((emb1 - emb2, emb1n * emb2n))
+            elif merge_type == 'comb_admn':
+                emb1n = emb1 / emb1.norm(dim=-1, keepdim=True)
+                emb2n = emb2 / emb2.norm(dim=-1, keepdim=True)
+                abs_diff = torch.abs(emb1 - emb2)
+                merged_feature = torch.cat((abs_diff, emb1n * emb2n))
             elif merge_type == 'comb_dnmn':
                 emb1n = emb1 / emb1.norm(dim=-1, keepdim=True)
                 emb2n = emb2 / emb2.norm(dim=-1, keepdim=True)
