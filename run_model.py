@@ -520,6 +520,7 @@ if __name__ == "__main__":
     parser.add_argument("--max_seq_len", default=256, type=int)
     parser.add_argument("--target_embeddings", type=str, default='comb_dmn')
     parser.add_argument("--head_batchnorm", type=int, default=0)
+    parser.add_argument("--bn1_track_stats",  type=int, default=1)
     parser.add_argument("--head_hidden_size", type=int, default=-1)
     parser.add_argument("--linear_head", type=str, default='false')
 

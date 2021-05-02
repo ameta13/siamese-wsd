@@ -66,15 +66,16 @@ class RobertaClassificationHead(nn.Module):
     def __init__(self, config, num_classes, input_size, args):
         super().__init__()
         bn = args.head_batchnorm
+        bn1_track_stats = True if args.bn1_track_stats else False
         self.linear_head = args.linear_head
         hidden_size = args.head_hidden_size
         hidden_size = config.hidden_size if hidden_size <= 0 else hidden_size
-        self.bn1 = torch.nn.BatchNorm1d(input_size) if bn % 2 == 1 else None
+        self.bn1 = torch.nn.BatchNorm1d(input_size, track_running_stats=bn1_track_stats) if bn % 2 == 1 else None
         self.bn2 = torch.nn.BatchNorm1d(hidden_size) if bn // 2 == 1 else None
         self.dense = nn.Linear(input_size, hidden_size)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.out_proj = nn.Linear(input_size if self.linear_head else hidden_size, num_classes)
-        print(f'RobertaClassificationHead: linear_head={self.linear_head}, hs={hidden_size}, input={input_size}, bn={bn}')
+        print(f'RobertaClassificationHead: linear_head={self.linear_head}, hs={hidden_size}, input={input_size}, bn={bn}, bn1_track_stats={bn1_track_stats}')
 
     def forward(self, features, **kwargs):
         x = features if self.bn1 is None else self.bn1(features)
