@@ -3,6 +3,7 @@ targ_emb=$2 # dist_l1 or dist_l1ndotn
 hs=$3 # 0
 batch_norm=$4 # 1
 bn1_track_stats=$5 # 1 if True, 0 if False
+siamese=$6 #false
 
 eval_per_epoch=1
 train_loss=crossentropy_loss
@@ -16,8 +17,6 @@ grad_acc_steps=32
 train_epochs=30
 ft_epochs=50
 ft_save_by_score=spearman.dev.scd_2.score #spearman.dev.scd_1.score+spearman.dev.scd_2.score+spearman.dev.scd_1.wordwise.score+spearman.dev.scd_2.wordwise.score
-
-siamese=false
 
 
 OUTPUT_DIR=xlmr-${model_name}..data_train-${DATA_TRAIN_DIR}..train_loss-${train_loss}..pool-${pool}..targ_emb-${targ_emb}..hs-${hs}..bn-${batch_norm}..bn1_track-${bn1_track_stats}..ckpt-${train_ckpt}
