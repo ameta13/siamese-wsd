@@ -13,7 +13,7 @@ pool=mean
 train_ckpt=accuracy.nen-nen.score+accuracy.en-en.score
 
 model_name=base
-grad_acc_steps=32
+grad_acc_steps=8
 train_epochs=30
 ft_epochs=50
 ft_save_by_score=spearman.dev.scd_2.score #spearman.dev.scd_1.score+spearman.dev.scd_2.score+spearman.dev.scd_1.wordwise.score+spearman.dev.scd_2.wordwise.score
