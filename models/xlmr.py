@@ -16,6 +16,19 @@ from sklearn.metrics import (
     precision_recall_fscore_support, classification_report, accuracy_score
 )
 
+def decode_docId(tens_docId):
+    lang2idx = {'en': 0, 'ru': 1, 'fr': 2, 'zh': 3, 'ar': 4} # копия из первой строки convert_docId()
+    idx2lang = {idx: lg for lg, idx in lang2idx.items()}
+    split, lg, num = tens_docId.tolist()
+    if split == 0:
+        split = 'train'
+    elif split == 1:
+        split = 'dev'
+    elif split == 2:
+        split = 'test'
+
+    lg = '-'.join([idx2lang[lg // 10], idx2lang[lg % 10]])
+    return '.'.join([split, lg, str(num)])
 
 def wsd_framework_score(golds, preds):
     ok, notok = 0, 0
@@ -88,6 +101,21 @@ class RobertaClassificationHead(nn.Module):
         x = self.out_proj(x)
         return x
 
+def save_embed(tensor, docIds, save_dir='save_embeddings', save_type='numpy'):
+    if not os.path.isdir(save_dir):
+        os.mkdir(save_dir)
+    for spl in ('train', 'dev', 'test'):
+        if not os.path.isdir(f'{save_dir}/{spl}'):
+            os.mkdir(f'{save_dir}/{spl}')
+
+    docIds = [decode_docId(tens_docId) for tens_docId in docIds]
+    for docId, vec in zip(docIds, tensor):
+        split, lg, num = docId.split('.')
+        if save_type == 'torch':
+            torch.save(vec, f'{save_dir}/{split}/{split}.{lg}.{num}.pt')
+        elif save_type == 'numpy':
+            np.save(f'{save_dir}/{split}/{split}.{lg}.{num}.npy', np.array(vec.cpu()))
+
 
 class XLMRModel(BertPreTrainedModel):
     config_class = XLMRobertaConfig
@@ -137,6 +165,7 @@ class XLMRModel(BertPreTrainedModel):
             head_mask=None,
             inputs_embeds=None,
             input_labels=None,
+            docIds=None,
     ):
         loss = defaultdict(float)
         outputs = self.roberta(
@@ -161,6 +190,8 @@ class XLMRModel(BertPreTrainedModel):
         positions = input_labels['positions'] # bs x 4
 
         syn_features = self.extract_features(sequences_output, positions) # bs x hidden or (bs // 2) x hidden
+        if self.args.save_embed and docIds is not None:
+            save_embed(syn_features, docIds)
         mse_loss = self.args.loss == 'mse_loss'
         clf = self.syn_mse_clf if mse_loss else self.syn_clf
         syn_logits = clf(syn_features)
@@ -211,6 +242,8 @@ class XLMRModel(BertPreTrainedModel):
                 merged_feature = emb1 - emb2
             elif merge_type == 'abs_diff':
                 merged_feature = torch.abs(emb1 - emb2)
+            elif merge_type == 'sqdiff':
+                merged_feature = torch.abs(emb1 - emb2) * torch.abs(emb1 - emb2)
             elif merge_type == 'concat':
                 merged_feature = torch.cat((emb1, emb2)) # 2 * hidden
             elif merge_type == 'mulnorm':
@@ -236,10 +269,16 @@ class XLMRModel(BertPreTrainedModel):
                 emb2n = emb2 / emb2.norm(dim=-1, keepdim=True)
                 abs_diff = torch.abs(emb1 - emb2)
                 merged_feature = torch.cat((abs_diff, emb1n * emb2n))
+            elif merge_type == 'comb_sqdmn': # Sqdiff ++ mulnorm
+                sqdiff = torch.abs(emb1 - emb2) * torch.abs(emb1 - emb2)
+                emb1n = emb1 / emb1.norm(dim=-1, keepdim=True)
+                emb2n = emb2 / emb2.norm(dim=-1, keepdim=True)
+                merged_feature = torch.cat((sqdiff, emb1n * emb2n))
             elif merge_type == 'comb_dnmn':
                 emb1n = emb1 / emb1.norm(dim=-1, keepdim=True)
                 emb2n = emb2 / emb2.norm(dim=-1, keepdim=True)
                 merged_feature = torch.cat((emb1n - emb2n, emb1n * emb2n))
+
             elif merge_type.startswith( 'dist_'):
                 if 'n' in merge_type:
                     emb1n = emb1 / emb1.norm(dim=-1, keepdim=True)
@@ -360,7 +399,6 @@ class XLMRModel(BertPreTrainedModel):
                         for (trgt_id, start, end) in start_end_positions:
                             if start and end:
                                 logger.info(f"Target{trgt_id}: {' '.join(tokens[start:end])}")
-
                     features.append(
                         WiCFeature2(
                             input_ids=input_ids,
@@ -371,6 +409,8 @@ class XLMRModel(BertPreTrainedModel):
                             example=ex
                             )
                         )
+                    if len(features) == 1:
+                        print(features)
         logger.info("Not fitted examples percentage: %s" % str(num_too_long_exs / len(features) * 100.0))
         logger.info("Skipped examples percentage: %s" % str(skipped / len(features) * 100.0))
         return features
@@ -395,7 +435,7 @@ class XLMRModel(BertPreTrainedModel):
 
             batch = tuple([elem.to(device) for elem in batch])
 
-            input_ids, input_mask, token_type_ids, b_syn_labels, b_positions = batch
+            input_ids, input_mask, token_type_ids, b_syn_labels, b_positions, docIds = batch
 
             with torch.no_grad():
                 loss, syn_logits = self(
@@ -405,7 +445,8 @@ class XLMRModel(BertPreTrainedModel):
                     input_labels={
                         'syn_labels': b_syn_labels,
                         'positions': b_positions
-                        }
+                        },
+                    docIds=docIds
                     )
 
             if compute_metrics:
