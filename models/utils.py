@@ -49,7 +49,7 @@ class DataProcessor:
         Example = namedtuple('Example', ['docId', 'pos', 'text_1', 'text_2', 'label', 'start_1', 'end_1', 'start_2', 'end_2', 'lemma', 'target_id', 'sense_id'])
         examples = []
         for file in data_files:
-            filename = file.split('/')[-1].split('.')[1]
+            filename = '.'.join(file.split('/')[-1].split('.')[:-1])
             data = json.load(open(file, encoding='utf-8'))
             gold_file = f'{file[:-5]}.gold'
             gold_labels = json.load(open(gold_file, encoding='utf-8')) if os.path.exists(gold_file) else [{'tag': 'F'}] * len(data)
@@ -67,6 +67,24 @@ class DataProcessor:
                 ex_id = ex['id'] if ex['id'].isnumeric() else ex['id'].split('.')[-1]
                 examples.append(Example(f'{filename}.{ex_id}', pos, ex['sentence1'], ex['sentence2'], label, ex['start1'], ex['end1'], ex['start2'], ex['end2'], ex['lemma'], target_id, sense_id))
         return examples
+
+def convert_docId(docId: str):
+    lang2idx = {'en': 0, 'ru': 1, 'fr': 2, 'zh': 3, 'ar': 4}
+    split, lg, num = docId.split('.')
+    if split == 'dev':
+        split = 1
+    elif split == 'test':
+        split = 2
+    else: # 'train' or 'training'
+        split = 0
+
+    lg = lg.split('-')
+    for i in (0, 1):
+        lg[i] = lang2idx[lg[i]]
+    lg = lg[0] * 10 + lg[1]
+
+    num = int(num)
+    return [split, lg, num]
 
 
 def get_dataloader_and_tensors(
@@ -94,11 +112,14 @@ def get_dataloader_and_tensors(
         [f.positions for f in features],
         dtype=torch.long
     )
+    docIds = torch.tensor(
+        [convert_docId(f.example.docId) for f in features],
+        dtype=torch.int
+    )
     eval_data = TensorDataset(
         input_ids, input_mask, token_type_ids,
-        syn_labels, positions
+        syn_labels, positions, docIds
     )
-
     if sampler_type == 'sequential':
         sampler = None
     else:
