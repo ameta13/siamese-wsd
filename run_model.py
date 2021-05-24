@@ -287,7 +287,7 @@ def main(args):
             ):
                 batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, token_type_ids, \
-                    syn_labels, positions = batch
+                    syn_labels, positions, _ = batch
 
                 train_loss, _ = model(
                     input_ids=input_ids,
@@ -548,6 +548,7 @@ if __name__ == "__main__":
 
     parser.add_argument("--layers", type=str, default='-1', help='indexes of layers for vectorizer model'
                                                                  'examples: -1,-2,-3,-4 for last for layers')
+    parser.add_argument('--save_embed', action='store_true', help='Save emeddings after aggregation of 2 contextualized embeddings')
 
     parsed_args = parser.parse_args()
     if parsed_args.do_eval:
